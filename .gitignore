@@ -1,0 +1,131 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+
+# Android specific
+android/
+build/
+captures/
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Generated.xcconfig
+ios/generated_runner/
+
+# macOS specific
+macos/Flutter/Flutter.xcconfig
+macos/Flutter/FlutterMacOS.framework/
+
+# Web specific
+web/flutter_service_worker.js
+web/packages/
+
+# VS Code specific
+.vscode/
+
+# IntelliJ/Android Studio specific
+.idea/
+*.iml
+*.iws
+*.iwp
+
+# Android Studio
+*.suo
+*. suo
+*.user
+*. usertasks
+*.userworkspace
+
+# Xcode
+.DS_Store
+*.xcworkspace/
+*.xcuserdatad/
+
+# Android Gradle
+build/
+captures/
+
+# IntelliJ
+*.iml
+*.iws
+*.iwp
+.idea/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Flutter build cache
+.dart_tool/
+.dart_server/
+.packages
+.pub/
+build/
+
+# Android
+*.android/
+*.android.iml
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# iOS
+*.iml
+*.xcodeproj/
+*.xcworkspace/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Android Studio
+*.iml
+*.iws
+*.iwp
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+
+# macOS
+*.DS_Store
+.AppleDouble/
+.AppleDesktop/
+.AppleDB/
+.AppleDesktopNetwork/
+.AppleDBServer/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Flutter Plugin
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Dart
+.dart_tool/
+.dart_dependencies
+
+# Flutter
+.build/
+.packages
+.pub/
